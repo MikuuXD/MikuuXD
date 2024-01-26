@@ -12,17 +12,6 @@
 _Smoking And Coffiee_
 ___
 
-<a href="https://www.top4top.me/" target="_blank" title="https://www.top4top.me/"><img src="https://i.top4top.io/p_2947sxdf70.jpeg" border="0" alt="https://i.top4top.io/p_2947sxdf70.jpeg" /></a>
-<video>
-
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-
-</p>
-
 <div align="center">
   <a href="https://github.com/MikuuXD/FB-MULTI"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=MikuuXD&repo=FB-MULTI&theme=chartreuse-dark"></a>
     <a href="https://github.com/MikuuXD/IGP"><img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=MikuuXD&repo=IGP&theme=chartreuse-dark"></a>
